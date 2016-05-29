@@ -12,8 +12,8 @@ shutit.core.module.build:yes
 
 [tk.shutit.shutit_supergiant]
                                                                                                                                
-aws_access_key:AKIAJ3Q64F4IJYV3K52A
-aws_secret_key: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
-kube_name:imiell
-kube_username:imiell
-kube_password:Khazzard
+aws_access_key:ACCESSKEY
+aws_secret_key:SECRETKEY
+kube_name:KUBENAME
+kube_username:KUBEUSERNAME
+kube_password:KUBEPASSWORD
